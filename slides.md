@@ -97,12 +97,6 @@ Phase 1 is the <strong>proposal</strong>. The panel must accept the scope in wri
 
 </div>
 
-<div class="card mt-6">
-
-**Ask at the end:** assign one challenge → accept this proposal as Phase 2 scope.
-
-</div>
-
 ---
 layout: with-outline-section
 ---
